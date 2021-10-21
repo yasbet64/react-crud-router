@@ -1,0 +1,64 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "name": "Don Qiujote de la Mancha",
+      "autor": "Miguel de Cervantes"
+    },
+    {
+      "id": 2,
+      "name": "El principito",
+      "autor": "Antoine Saintexupery"
+    },
+    {
+      "id": 3,
+      "name": "Diplomacia",
+      "autor": "Henry Kissinger"
+    },
+    {
+      "id": 4,
+      "name": "El Último Emperador",
+      "autor": "Pu-Yi"
+    },
+    {
+      "id": 5,
+      "name": "Los Windsor",
+      "autor": "Kitty Kelley"
+    },
+    {
+      "id": 6,
+      "name": "Fortunata y Jacinta",
+      "autor": "Pérez Galdós"
+    },
+    {
+      "id": 7,
+      "name": "Historia de Nueva Orleans",
+      "autor": "William Faulker"
+    },
+    {
+      "name": "La Odisea",
+      "autor": "Homero",
+      "id": 1629999291409
+    },
+    {
+      "name": "Romeo y Julieta",
+      "autor": "Willliam Shakespeare",
+      "id": 1629999802618
+    },
+    {
+      "name": "Madame Bovary",
+      "autor": "Gustave Flaubert",
+      "id": 1630692657450
+    },
+    {
+      "name": "Warma Kullay",
+      "autor": "Jose Maria Arguedas",
+      "id": 1631834464025
+    },
+    {
+      "name": "El Gato Negro",
+      "autor": "Edgar Allan Poe",
+      "id": 1631835828784
+    }
+  ]
+}
